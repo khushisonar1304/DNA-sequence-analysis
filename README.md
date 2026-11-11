@@ -1,2 +1,2 @@
-# DNA-sequence-analysis
+# Python portfolio
 Transcription, Translation, ATGC content plot
