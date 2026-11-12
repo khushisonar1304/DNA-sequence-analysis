@@ -1,4 +1,4 @@
-# Python portfolio
+`  # Python portfolio
 This repository showcases my beginner-level practucal projects combining Python programming, bioinformatics and biological data analysis.
 I'm an M.Sc. Biotechnology student interested in computational biology, genomics and scientific data analysis.
 Projects
